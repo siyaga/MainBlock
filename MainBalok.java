@@ -17,7 +17,6 @@ public class MainBalok {
   Scanner keyboard=new Scanner(System.in);
   System.out.println("1. Luas lingkaran"); 
   System.out.println("2. Luas Persegi"); 
-  System.out.println("3. Luas Segiti");
   System.out.println("=======================================");  
   System.out.print("Pilih = ");
   p = keyboard.nextInt();
